@@ -1,0 +1,16 @@
+GreenRoots Expansion Clean Dataset Data Dictionary
+Time period: 2021-01-01 to 2025-12-31. Clean CSVs contain valid IDs, dates, prices, and relationship keys.
+
+campaigns: Marketing campaigns with date range, budget, channel, and target customer segment.
+competitors: Competitor garden retailers by city with distance, size, and estimated annual revenue.
+customers: Customer master data with contact details, city, segment, registration date, and loyalty points.
+employees: Employee roster linked to stores with position, salary, hire date, and performance rating.
+feedbacks: Customer satisfaction reviews linked to customers and stores.
+inventory: Store-product stock levels, reorder points, and latest stock update date.
+products: Product catalog with category, brand, cost, selling price, supplier, launch date, and discontinued flag.
+sales: Transaction-level sales linked to store, customer, employee, and product.
+stores: Store master table with location, store type, open date, and manager.
+suppliers: Supplier master table with contact information and reliability score.
+
+Important fields:
+Revenue = Quantity * UnitPrice * (1 - Discount). Discount is decimal rate. ReliabilityScore ranges 0-100; lower scores indicate higher shortage risk. DiscontinuedFlag indicates whether product is discontinued. CustomerSegment supports Budget, Standard, Premium, VIP analysis. StoreType supports Flagship, Urban, Suburban, Outlet comparison.
