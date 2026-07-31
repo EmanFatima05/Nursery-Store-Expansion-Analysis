@@ -1,0 +1,61 @@
+CampaignID,CampaignName,StartDate,EndDate,Budget,Channel,TargetSegment
+1,Weekend Grow Event,2024-07-07,2024-08-16,26904.68,In Store,VIP
+2,Plant Care Push,2023-08-06,2023-09-25,53851.44,Google Ads,Premium
+3,Holiday Garden Push,2022-09-14,2022-10-22,33379.22,Google Ads,Budget
+4,VIP Preview Event,2022-07-16,2022-08-07,52119.98,Direct Mail,Premium
+5,Spring Bloom Push,2023-09-19,2023-10-06,8602.18,Billboard,Premium
+6,Urban Green Event,2024-11-04,2024-12-16,26657.72,In Store,All
+7,Spring Bloom Event,2025-05-12,2025-05-27,57042.12,Billboard,All
+8,Plant Care Push,2022-10-19,2022-12-13,63762.39,In Store,Premium
+9,Weekend Grow Promo,2023-06-22,2023-08-07,58377.95,Billboard,VIP
+10,Weekend Grow Push,2025-05-15,2025-07-08,43434.84,Google Ads,Premium
+11,Weekend Grow Sale,2024-11-20,2025-01-09,9746.72,Billboard,Premium
+12,VIP Preview Event,2022-06-11,2022-08-05,41323.1,Email,VIP
+13,Patio Refresh Promo,2023-08-12,2023-10-02,15039.09,Local Radio,Budget
+14,VIP Preview Sale,2022-12-08,2023-02-02,17634.29,Email,VIP
+15,Spring Bloom Sale,2021-02-03,2021-03-19,51256.02,Local Radio,All
+16,Spring Bloom Promo,2021-02-09,2021-04-03,23562.24,Google Ads,Standard
+17,Plant Care Push,2023-08-21,2023-09-12,6714.28,Google Ads,Premium
+18,Plant Care Promo,2023-08-15,2023-10-02,13106.89,Email,All
+19,VIP Preview Promo,2022-10-20,2022-12-02,36407.59,In Store,All
+20,Weekend Grow Sale,2023-06-16,2023-08-03,31511.62,Google Ads,Premium
+21,Spring Bloom Push,2024-05-05,2024-06-07,25633.1,Social Media,VIP
+22,Patio Refresh Event,2025-01-23,2025-03-09,5547.96,Direct Mail,VIP
+23,Urban Green Push,2023-10-08,2023-10-22,29704.15,Local Radio,All
+24,VIP Preview Promo,2024-07-08,2024-08-01,54705.61,In Store,Standard
+25,Plant Care Event,2023-02-14,2023-04-09,22080.61,Google Ads,All
+26,Holiday Garden Event,2023-07-07,2023-07-25,11621.38,Google Ads,VIP
+27,Patio Refresh Push,2025-08-09,2025-10-06,24238.62,Local Radio,Standard
+28,Urban Green Event,2021-09-01,2021-09-26,12502.35,Social Media,VIP
+29,Patio Refresh Push,2021-04-03,2021-04-26,25514.77,Social Media,Premium
+30,Spring Bloom Event,2024-06-15,2024-08-12,9813.39,Direct Mail,Standard
+31,Patio Refresh Push,2021-05-13,2021-05-31,16531.54,Local Radio,Premium
+32,Patio Refresh Promo,2024-01-04,2024-03-03,19829.73,Google Ads,Budget
+33,VIP Preview Push,2022-08-24,2022-09-13,33369.53,Local Radio,Premium
+34,VIP Preview Sale,2023-03-21,2023-05-20,20198.76,Social Media,Premium
+35,Spring Bloom Push,2022-06-02,2022-07-28,42974.54,Google Ads,Premium
+36,Patio Refresh Push,2021-03-09,2021-04-29,5535.79,Social Media,Budget
+37,Holiday Garden Event,2025-12-16,2025-12-31,51247.82,Local Radio,Standard
+38,Urban Green Sale,2022-08-03,2022-09-29,8586.51,Local Radio,Standard
+39,Urban Green Event,2025-02-05,2025-03-22,53331.52,Google Ads,VIP
+40,VIP Preview Push,2022-01-23,2022-03-02,20041.77,Email,Budget
+41,Plant Care Promo,2024-12-15,2025-02-02,16386.55,Email,Standard
+42,Urban Green Push,2025-06-11,2025-08-10,9132.6,Billboard,Standard
+43,Patio Refresh Sale,2024-05-09,2024-06-26,51555.07,Email,All
+44,Weekend Grow Event,2024-12-06,2024-12-21,51560.99,Local Radio,Standard
+45,Weekend Grow Promo,2023-12-03,2024-01-28,16392.17,Local Radio,VIP
+46,Patio Refresh Event,2025-03-20,2025-04-21,11627.85,Email,All
+47,Spring Bloom Push,2021-01-05,2021-01-30,11423.31,Direct Mail,Standard
+48,Patio Refresh Promo,2021-01-19,2021-03-15,36549.28,Direct Mail,All
+49,VIP Preview Sale,2023-01-12,2023-02-09,5785.17,Local Radio,Standard
+50,Urban Green Promo,2024-02-15,2024-04-09,54321.59,Social Media,Budget
+51,Spring Bloom Event,2025-05-17,2025-06-02,9676.12,In Store,Standard
+52,Plant Care Promo,2025-02-04,2025-04-05,16367.62,Google Ads,All
+53,VIP Preview Promo,2022-10-21,2022-11-15,49766.5,Local Radio,All
+54,Patio Refresh Sale,2023-11-15,2024-01-12,15008.56,In Store,Standard
+55,Holiday Garden Promo,2025-07-17,2025-08-21,61011.2,In Store,Premium
+56,VIP Preview Promo,2025-06-12,2025-07-22,54569.3,Direct Mail,Premium
+57,Patio Refresh Event,2025-04-19,2025-06-06,26600.51,Google Ads,VIP
+58,Urban Green Sale,2024-07-01,2024-08-30,36056.56,Social Media,Premium
+59,Urban Green Sale,2021-05-08,2021-06-04,51291.38,Direct Mail,Premium
+60,Holiday Garden Sale,2025-09-18,2025-11-07,7264.18,Local Radio,Premium

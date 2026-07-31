@@ -1,0 +1,26 @@
+StoreID,StoreName,State,City,StoreType,OpenDate,ManagerID
+1,Bloom Works,California,Los Angeles,Urban,2022-09-01,3
+2,Sprout Hub,California,San Diego,Suburban,2016-06-10,31
+3,Garden Center,California,San Francisco,Urban,2016-02-24,41
+4,Urban Works,California,San Jose,Urban,2022-03-05,58
+5,Terra House,Texas,Houston,Suburban,2018-09-20,79
+6,Garden Works,Texas,Dallas,Urban,2022-12-23,102
+7,Leaf Corner,Texas,Austin,Urban,2021-11-12,111
+8,Terra Studio,Texas,San Antonio,Urban,2016-04-08,130
+9,Green Center,Florida,Miami,Flagship,2020-04-19,132
+10,Urban Place,Florida,Orlando,Urban,2021-01-08,151
+11,Green Shop,New York,New York City,Flagship,2016-09-08,175
+12,Sprout Depot,New York,Buffalo,Urban,2020-03-24,187
+13,Flora Center,Illinois,Chicago,Outlet,2019-04-16,200
+14,Garden Market,Washington,Seattle,Suburban,2016-11-14,217
+15,Plant Studio,Washington,Spokane,Urban,2022-12-02,220
+16,Vine Market,Arizona,Phoenix,Suburban,2016-07-24,243
+17,Mint Market,Georgia,Atlanta,Urban,2017-04-07,260
+18,Bloom Corner,Colorado,Denver,Suburban,2017-05-15,268
+19,Fern Market,Nevada,Las Vegas,Urban,2019-09-04,290
+20,Terra Hub,California,Sacramento,Flagship,2016-04-06,293
+21,Sprout Depot,Florida,Tampa,Urban,2022-07-02,320
+22,Green Corner,Illinois,Naperville,Urban,2018-08-10,333
+23,Meadow Works,Arizona,Tucson,Urban,2021-12-16,346
+24,Leaf Depot,Colorado,Boulder,Flagship,2016-10-24,365
+25,Meadow Shop,Nevada,Reno,Suburban,2016-01-19,380

@@ -1,0 +1,141 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,SellingPrice,SupplierID,LaunchDate,DiscontinuedFlag
+1,Premium Palm,Outdoor Plants,Shrubs,BloomCo,76.98,110.09,3,2019-10-03,No
+2,Bloom Calathea,Indoor Plants,Tropical,UrbanLeaf,60.97,120.07,7,2023-05-07,No
+3,Classic Pot,Gardening Tools,Hand Tools,GreenRoots,38.21,87.08,15,2019-01-15,No
+4,Terra Ficus,Outdoor Plants,Herbs,GardenEase,74.86,167.0,15,2021-06-10,No
+5,Sunny Basket,Garden Accessories,Stands,TerraHome,26.05,52.45,15,2020-05-04,Yes
+6,Eco Soil,Gardening Tools,Protective Gear,RootCraft,18.68,37.07,5,2025-05-02,No
+7,Sunny Soil,Gardening Tools,Protective Gear,GardenEase,62.38,123.96,5,2020-12-15,No
+8,Fresh Ficus,Indoor Plants,Tropical,RootCraft,56.26,122.91,10,2020-07-05,No
+9,Green Mulch,Garden Accessories,Stands,UrbanLeaf,19.18,30.68,2,2023-09-14,Yes
+10,Premium Compost,Pots and Planters,Raised Beds,UrbanLeaf,4.91,10.25,6,2024-11-24,No
+11,Urban Fertilizer,Pots and Planters,Hanging Baskets,UrbanLeaf,70.16,154.95,4,2021-08-12,No
+12,Eco Hydrangea,Indoor Plants,Tropical,GreenRoots,35.35,78.28,13,2022-06-21,No
+13,Terra Succulent,Indoor Plants,Tropical,BloomCo,59.63,139.15,1,2019-10-14,No
+14,Urban Hydrangea,Outdoor Plants,Shrubs,TerraHome,72.26,111.29,1,2024-01-17,Yes
+15,Garden Soil,Gardening Tools,Pruning,BloomCo,54.08,79.75,15,2022-09-10,No
+16,Classic Hose,Soil and Fertilizer,Organic Soil,TerraHome,35.37,81.01,11,2020-10-19,No
+17,Pure Soil,Gardening Tools,Pruning,GardenEase,38.8,69.54,4,2025-12-06,No
+18,Garden Gloves,Soil and Fertilizer,Organic Soil,UrbanLeaf,66.02,138.72,11,2022-04-07,No
+19,Fresh Trellis,Garden Accessories,Lighting,RootCraft,34.91,69.11,4,2024-08-13,No
+20,Urban Compost,Pots and Planters,Ceramic Pots,BloomCo,19.85,42.76,12,2025-01-18,No
+21,Wild Ivy,Indoor Plants,Succulents,RootCraft,98.83,192.27,13,2025-10-24,Yes
+22,Wild Shears,Garden Accessories,Decor,PurePlant,60.26,109.95,5,2021-11-09,No
+23,Wild Pothos,Indoor Plants,Low Light,BloomCo,72.43,114.76,6,2023-09-03,No
+24,Eco Gloves,Soil and Fertilizer,Mulch,RootCraft,34.94,58.73,8,2024-01-07,No
+25,Sunny Calathea,Outdoor Plants,Shrubs,BloomCo,32.29,43.78,6,2022-07-14,No
+26,Pure Jade,Indoor Plants,Low Light,GardenEase,6.54,11.03,11,2024-12-06,No
+27,Soft Calathea,Outdoor Plants,Herbs,BloomCo,46.46,63.98,11,2024-03-15,No
+28,Wild Soil,Gardening Tools,Hand Tools,TerraHome,28.99,64.64,5,2024-05-03,No
+29,Fresh Palm,Indoor Plants,Succulents,PurePlant,76.34,175.55,4,2018-10-05,No
+30,Eco Bamboo,Indoor Plants,Air Purifying,TerraHome,71.07,150.45,3,2019-03-10,No
+31,Soft Hydrangea,Outdoor Plants,Flowers,RootCraft,75.49,116.88,10,2021-02-23,No
+32,Pure Mulch,Garden Accessories,Trellis,PurePlant,8.31,16.6,1,2024-08-04,No
+33,Wild Rake,Pots and Planters,Decorative Planters,BloomCo,36.53,76.12,11,2022-10-18,No
+34,Terra Soil,Pots and Planters,Decorative Planters,TerraHome,68.58,149.55,2,2022-08-08,No
+35,Garden Succulent,Indoor Plants,Tropical,GardenEase,50.68,86.4,5,2023-05-20,No
+36,Eco Pothos,Indoor Plants,Succulents,BloomCo,26.98,47.39,9,2021-12-16,No
+37,Fresh Pot,Pots and Planters,Decorative Planters,PurePlant,20.06,40.96,5,2023-08-18,No
+38,Leafy Bamboo,Outdoor Plants,Shrubs,UrbanLeaf,23.86,38.21,2,2021-06-04,No
+39,Bright Lavender,Indoor Plants,Tropical,UrbanLeaf,73.49,170.98,9,2022-02-07,No
+40,Classic Planter,Gardening Tools,Hand Tools,GardenEase,6.5,9.13,5,2020-11-25,No
+41,Bright Trellis,Gardening Tools,Hand Tools,GardenEase,29.23,67.68,5,2025-02-03,No
+42,Green Rake,Soil and Fertilizer,Mulch,GardenEase,14.49,27.72,5,2019-04-04,No
+43,Bloom Ivy,Outdoor Plants,Flowers,RootCraft,32.29,72.93,5,2024-05-19,No
+44,Eco Lavender,Indoor Plants,Succulents,TerraHome,67.32,101.46,3,2019-03-01,No
+45,Root Basil,Indoor Plants,Low Light,BloomCo,71.41,128.83,11,2021-05-21,No
+46,Bloom Ficus,Indoor Plants,Tropical,BloomCo,91.18,198.47,2,2018-03-10,No
+47,Root Hydrangea,Indoor Plants,Succulents,PurePlant,94.48,174.83,8,2025-02-20,No
+48,Terra Trowel,Gardening Tools,Watering,BloomCo,10.03,23.19,14,2018-11-09,No
+49,Wild Lavender,Outdoor Plants,Herbs,TerraHome,16.97,32.84,11,2025-02-16,No
+50,Premium Soil,Soil and Fertilizer,Plant Food,TerraHome,34.7,64.04,11,2024-09-02,No
+51,Soft Stand,Gardening Tools,Pruning,GardenEase,66.52,89.88,14,2025-07-02,No
+52,Wild Pruner,Pots and Planters,Ceramic Pots,PurePlant,18.67,35.46,15,2022-08-23,No
+53,Bloom Succulent,Outdoor Plants,Flowers,PurePlant,26.93,36.72,7,2019-04-04,No
+54,Bright Pot,Pots and Planters,Hanging Baskets,BloomCo,42.18,68.48,14,2025-08-08,No
+55,Classic Pothos,Indoor Plants,Tropical,PurePlant,30.34,64.93,7,2023-09-09,No
+56,Bright Rake,Gardening Tools,Watering,GardenEase,37.38,68.57,6,2024-08-11,No
+57,Pure Pruner,Gardening Tools,Watering,BloomCo,27.5,50.13,15,2024-07-22,No
+58,Classic Stand,Garden Accessories,Lighting,PurePlant,77.33,130.07,2,2025-02-17,Yes
+59,Garden Peperomia,Indoor Plants,Tropical,PurePlant,70.42,140.83,14,2023-11-18,No
+60,Bright Basket,Soil and Fertilizer,Organic Soil,RootCraft,5.76,8.17,11,2022-04-24,No
+61,Urban Trellis,Soil and Fertilizer,Plant Food,BloomCo,15.81,26.08,1,2018-06-02,No
+62,Pure Calathea,Indoor Plants,Low Light,BloomCo,69.37,106.14,3,2019-10-13,No
+63,Classic Nozzle,Garden Accessories,Stands,GreenRoots,38.51,61.77,5,2018-08-10,No
+64,Leafy Pot,Gardening Tools,Protective Gear,GreenRoots,52.2,92.62,5,2025-05-07,Yes
+65,Leafy Calathea,Indoor Plants,Air Purifying,GardenEase,32.23,66.05,1,2024-05-01,No
+66,Root Nozzle,Soil and Fertilizer,Compost,PurePlant,49.74,84.67,11,2021-10-09,No
+67,Green Basil,Indoor Plants,Succulents,UrbanLeaf,79.65,110.18,6,2020-02-10,No
+68,Leafy Ivy,Indoor Plants,Tropical,RootCraft,52.05,84.45,3,2022-08-10,No
+69,Bloom Hydrangea,Indoor Plants,Air Purifying,BloomCo,96.85,208.67,6,2019-07-01,No
+70,Terra Fertilizer,Gardening Tools,Pruning,GardenEase,66.33,151.92,2,2021-08-01,No
+71,Fresh Bamboo,Indoor Plants,Tropical,BloomCo,91.28,150.81,7,2019-03-02,Yes
+72,Bloom Begonia,Indoor Plants,Succulents,PurePlant,16.81,30.32,11,2024-10-24,No
+73,Bright Peperomia,Indoor Plants,Low Light,RootCraft,43.03,99.03,1,2023-04-15,No
+74,Leafy Basket,Gardening Tools,Protective Gear,GreenRoots,72.43,144.49,1,2024-05-07,Yes
+75,Sunny Pruner,Soil and Fertilizer,Compost,RootCraft,63.58,101.32,3,2021-02-25,No
+76,Garden Rake,Pots and Planters,Hanging Baskets,GreenRoots,63.73,124.02,5,2020-03-18,No
+77,Sunny Rake,Soil and Fertilizer,Compost,PurePlant,4.14,8.86,4,2023-01-06,No
+78,Urban Gloves,Gardening Tools,Hand Tools,PurePlant,39.67,84.42,9,2019-08-17,No
+79,Root Trellis,Pots and Planters,Decorative Planters,GreenRoots,52.54,72.57,8,2024-07-22,No
+80,Fresh Rake,Pots and Planters,Decorative Planters,GardenEase,24.18,47.95,9,2023-07-20,No
+81,Urban Monstera,Outdoor Plants,Trees,TerraHome,68.67,137.4,13,2021-07-15,Yes
+82,Soft Compost,Pots and Planters,Decorative Planters,GreenRoots,59.18,98.39,6,2022-06-05,No
+83,Fresh Pothos,Indoor Plants,Tropical,PurePlant,45.32,94.93,6,2020-09-02,No
+84,Leafy Aloe,Indoor Plants,Low Light,UrbanLeaf,87.3,180.8,5,2022-06-04,No
+85,Bloom Spade,Soil and Fertilizer,Organic Soil,GardenEase,29.96,57.11,2,2022-10-08,No
+86,Premium Planter,Garden Accessories,Decor,GreenRoots,57.11,94.74,6,2023-01-06,No
+87,Sunny Pothos,Indoor Plants,Tropical,RootCraft,75.56,118.26,7,2025-06-06,No
+88,Fresh Pruner,Garden Accessories,Decor,GardenEase,14.98,31.52,1,2019-05-15,No
+89,Terra Hose,Gardening Tools,Protective Gear,GardenEase,61.13,89.48,7,2019-05-22,No
+90,Green Nozzle,Soil and Fertilizer,Plant Food,TerraHome,33.44,65.19,1,2021-05-07,No
+91,Sunny Lantern,Gardening Tools,Pruning,GreenRoots,60.52,92.34,7,2021-09-18,No
+92,Green Compost,Gardening Tools,Protective Gear,TerraHome,4.44,10.08,14,2023-10-14,No
+93,Sunny Mint,Indoor Plants,Low Light,BloomCo,20.29,46.62,8,2023-02-14,No
+94,Fresh Hydrangea,Outdoor Plants,Flowers,GardenEase,70.03,146.77,4,2023-03-03,No
+95,Leafy Rosemary,Outdoor Plants,Shrubs,UrbanLeaf,59.01,127.99,14,2020-04-04,No
+96,Fresh Succulent,Outdoor Plants,Herbs,RootCraft,76.25,150.82,8,2025-11-19,No
+97,Wild Gloves,Garden Accessories,Lighting,TerraHome,39.11,77.49,13,2022-10-02,No
+98,Green Pruner,Gardening Tools,Protective Gear,GardenEase,31.39,51.39,11,2019-10-20,No
+99,Green Bamboo,Outdoor Plants,Flowers,BloomCo,73.0,140.28,4,2023-10-16,No
+100,Garden Pothos,Indoor Plants,Low Light,TerraHome,52.31,79.65,4,2025-08-17,No
+101,Root Fertilizer,Gardening Tools,Pruning,GreenRoots,34.48,58.21,10,2018-11-21,No
+102,Soft Basil,Outdoor Plants,Shrubs,TerraHome,22.4,49.32,15,2020-06-03,No
+103,Soft Rake,Gardening Tools,Hand Tools,PurePlant,48.82,111.7,5,2024-11-11,No
+104,Leafy Trowel,Soil and Fertilizer,Compost,UrbanLeaf,30.92,47.32,4,2023-08-07,No
+105,Urban Ivy,Indoor Plants,Low Light,GardenEase,77.95,170.33,15,2018-11-11,No
+106,Premium Shears,Gardening Tools,Pruning,PurePlant,67.01,142.13,13,2020-12-15,No
+107,Wild Pot,Soil and Fertilizer,Compost,TerraHome,60.93,130.01,4,2021-05-16,Yes
+108,Wild Trellis,Soil and Fertilizer,Compost,RootCraft,62.25,132.48,9,2024-03-07,No
+109,Bright Mulch,Gardening Tools,Pruning,BloomCo,45.7,66.38,14,2019-05-03,No
+110,Classic Compost,Garden Accessories,Decor,GardenEase,10.06,22.74,14,2025-06-01,No
+111,Soft Gloves,Gardening Tools,Watering,UrbanLeaf,31.87,43.92,15,2019-12-21,No
+112,Bright Ficus,Indoor Plants,Low Light,GardenEase,76.79,139.69,10,2018-02-01,No
+113,Pure Spade,Garden Accessories,Decor,GreenRoots,62.77,99.66,2,2018-04-14,No
+114,Sunny Ivy,Indoor Plants,Succulents,UrbanLeaf,59.1,122.25,5,2024-01-20,No
+115,Fresh Stand,Soil and Fertilizer,Mulch,TerraHome,78.05,110.65,9,2018-07-16,No
+116,Sunny Mulch,Gardening Tools,Watering,GreenRoots,63.72,107.99,12,2019-10-24,No
+117,Garden Shears,Gardening Tools,Hand Tools,PurePlant,66.94,136.2,12,2025-11-06,No
+118,Root Hose,Pots and Planters,Decorative Planters,TerraHome,6.37,9.87,1,2023-05-17,No
+119,Eco Basil,Indoor Plants,Succulents,BloomCo,38.11,81.21,14,2023-05-04,No
+120,Soft Soil,Soil and Fertilizer,Mulch,GreenRoots,77.98,143.97,8,2023-09-09,No
+121,Premium Basket,Gardening Tools,Protective Gear,UrbanLeaf,25.62,37.22,6,2022-05-15,No
+122,Leafy Trellis,Soil and Fertilizer,Organic Soil,GreenRoots,6.26,13.9,6,2024-05-21,Yes
+123,Soft Mulch,Soil and Fertilizer,Mulch,GreenRoots,42.51,89.27,3,2018-03-20,No
+124,Bloom Rosemary,Indoor Plants,Tropical,BloomCo,38.61,88.78,1,2020-11-15,Yes
+125,Leafy Fertilizer,Pots and Planters,Decorative Planters,GardenEase,27.21,44.32,2,2018-12-06,No
+126,Terra Bamboo,Indoor Plants,Air Purifying,BloomCo,24.4,47.87,12,2025-04-04,No
+127,Garden Rosemary,Indoor Plants,Low Light,RootCraft,72.04,136.88,5,2022-03-23,No
+128,Eco Rake,Gardening Tools,Hand Tools,GreenRoots,21.23,39.15,6,2023-08-18,No
+129,Bright Stand,Gardening Tools,Protective Gear,BloomCo,34.63,60.93,10,2019-03-11,No
+130,Leafy Rake,Soil and Fertilizer,Organic Soil,RootCraft,70.6,150.4,11,2020-03-14,No
+131,Classic Basil,Indoor Plants,Air Purifying,TerraHome,19.6,32.78,12,2021-06-17,Yes
+132,Root Peperomia,Indoor Plants,Tropical,RootCraft,55.1,102.08,3,2020-03-22,No
+133,Green Trowel,Garden Accessories,Decor,GardenEase,9.25,21.26,13,2022-11-07,No
+134,Root Pot,Soil and Fertilizer,Organic Soil,UrbanLeaf,40.19,86.6,11,2024-05-15,No
+135,Classic Soil,Gardening Tools,Hand Tools,TerraHome,69.33,115.73,14,2023-07-05,No
+136,Urban Lavender,Indoor Plants,Low Light,RootCraft,47.02,70.1,1,2022-07-20,No
+137,Garden Hose,Gardening Tools,Hand Tools,BloomCo,61.76,114.15,9,2025-08-10,No
+138,Bloom Cactus,Outdoor Plants,Herbs,GardenEase,47.92,67.02,5,2025-10-21,No
+139,Urban Aloe,Indoor Plants,Low Light,TerraHome,16.64,26.86,6,2024-06-02,No
+140,Wild Begonia,Outdoor Plants,Herbs,GardenEase,24.54,57.4,11,2019-03-04,No

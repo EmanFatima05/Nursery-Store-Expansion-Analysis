@@ -1,0 +1,16 @@
+SupplierID,SupplierName,State,City,ContactName,Phone,Email,ReliabilityScore
+1,TerraGrow Supply,Texas,Houston,Stephanie Moore,(892) 958-9935,stephanie.moore@supplier1.com,65.5
+2,LeafLine Farms,Texas,San Antonio,John Johnson,(816) 227-4257,john.johnson@supplier2.com,59.0
+3,Evergreen Nursery,Colorado,Boulder,Joseph Lewis,(914) 632-6574,joseph.lewis@supplier3.com,80.3
+4,GardenPro Supply,Illinois,Chicago,Susan Perez,(567) 552-5333,susan.perez@supplier4.com,59.4
+5,GardenPro Supply,California,Sacramento,Andrew Davis,(765) 500-6925,andrew.davis@supplier5.com,96.8
+6,LeafLine Growers,Nevada,Las Vegas,Deborah Jones,(281) 438-2654,deborah.jones@supplier6.com,57.0
+7,SunRoot Nursery,Arizona,Tucson,Ashley White,(886) 473-2169,ashley.white@supplier7.com,62.0
+8,GardenPro Growers,Nevada,Las Vegas,Andrew Thomas,(855) 904-4598,andrew.thomas@supplier8.com,62.0
+9,GardenPro Growers,Washington,Seattle,Joseph Williams,(267) 416-6155,joseph.williams@supplier9.com,89.6
+10,EcoSprout Nursery,New York,Albany,Kimberly Sanchez,(471) 342-5040,kimberly.sanchez@supplier10.com,93.0
+11,GreenTrail Wholesale,Colorado,Boulder,Stephanie Nguyen,(570) 424-3266,stephanie.nguyen@supplier11.com,73.4
+12,TerraGrow Nursery,Colorado,Boulder,Jennifer Brown,(896) 632-2040,jennifer.brown@supplier12.com,92.0
+13,Plantwise Supply,Arizona,Tucson,Kenneth Robinson,(896) 938-2876,kenneth.robinson@supplier13.com,77.8
+14,GardenPro Nursery,Colorado,Boulder,Rebecca Perez,(664) 203-5315,rebecca.perez@supplier14.com,59.8
+15,Harvest Farms,Colorado,Denver,Paul Miller,(823) 403-3504,paul.miller@supplier15.com,92.4

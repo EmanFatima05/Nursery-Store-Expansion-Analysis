@@ -1,0 +1,171 @@
+CompetitorID,CompetitorName,State,City,DistanceMiles,StoreSize,AnnualRevenueEstimate
+1,Nursery Lane Shop,Florida,Miami,13.4,Medium,1473219.28
+2,Green Spot Center,Illinois,Chicago,8.6,Medium,4104896.26
+3,Garden World Center,Washington,Spokane,12.4,Small,3374963.81
+4,Home Garden Center,Illinois,Chicago,1.4,Small,5089825.36
+5,Leaf Depot Center,Washington,Spokane,6.4,Small,4816379.2
+6,Home Garden Co,New York,Albany,9.6,Big Box,534171.73
+7,Nursery Lane Market,Colorado,Denver,5.0,Medium,1054286.78
+8,Leaf Depot Co,Arizona,Tucson,3.5,Large,4378433.57
+9,Nursery Lane Co,Florida,Miami,7.2,Small,3127800.13
+10,Urban Jungle Center,Illinois,Chicago,11.7,Medium,4250672.83
+11,Urban Jungle Center,Georgia,Atlanta,9.9,Medium,3196129.95
+12,Garden World Co,Colorado,Denver,4.1,Big Box,1947911.12
+13,Plant Barn Center,Nevada,Las Vegas,6.5,Large,1250071.14
+14,Leaf Depot Shop,Washington,Seattle,2.7,Large,3485160.22
+15,Urban Jungle Co,Georgia,Atlanta,13.9,Medium,1298347.37
+16,Leaf Depot Co,Washington,Seattle,1.9,Small,1526003.63
+17,Leaf Depot Shop,Nevada,Las Vegas,0.4,Small,1851869.76
+18,Nursery Lane Market,Georgia,Atlanta,11.2,Medium,1319957.1
+19,Green Spot Center,Colorado,Boulder,9.4,Medium,3899123.5
+20,Green Spot Co,California,Sacramento,4.0,Small,1741071.09
+21,Plant Barn Center,Nevada,Reno,9.9,Small,599638.41
+22,Leaf Depot Co,Illinois,Naperville,0.5,Big Box,1463635.26
+23,Nursery Lane Center,Arizona,Phoenix,13.0,Small,1228691.28
+24,Green Spot Co,Colorado,Boulder,0.8,Large,2001240.58
+25,Plant Barn Shop,Arizona,Phoenix,10.3,Large,3532462.59
+26,Nursery Lane Co,New York,Albany,9.5,Big Box,4924610.95
+27,Nursery Lane Market,California,San Jose,2.4,Big Box,3698891.73
+28,Green Spot Market,Texas,San Antonio,6.4,Medium,2488941.23
+29,Urban Jungle Market,Illinois,Naperville,3.3,Medium,3300411.18
+30,Nursery Lane Market,New York,New York City,6.6,Medium,3695216.7
+31,Nursery Lane Co,Nevada,Las Vegas,8.4,Small,1216709.88
+32,Plant Barn Shop,Florida,Tampa,13.2,Big Box,5296279.98
+33,Home Garden Shop,Illinois,Naperville,2.4,Medium,810550.02
+34,Leaf Depot Shop,Florida,Miami,9.2,Medium,3380893.64
+35,Plant Barn Shop,New York,Albany,1.4,Big Box,953954.79
+36,Home Garden Shop,Nevada,Reno,2.9,Big Box,2830089.38
+37,Garden World Market,Florida,Miami,0.7,Small,5108534.19
+38,Home Garden Market,Arizona,Phoenix,11.4,Small,1179660.56
+39,Home Garden Shop,Georgia,Savannah,13.0,Medium,2494667.34
+40,Home Garden Center,California,San Jose,10.9,Big Box,3460400.59
+41,Green Spot Co,Nevada,Las Vegas,6.9,Small,4858344.68
+42,Green Spot Center,New York,Albany,14.8,Small,3177929.99
+43,Garden World Shop,Colorado,Denver,6.7,Large,4311804.32
+44,Garden World Center,Illinois,Naperville,4.6,Small,3872253.03
+45,Leaf Depot Center,Florida,Orlando,1.5,Small,1193799.81
+46,Urban Jungle Center,Nevada,Las Vegas,5.0,Small,1189112.54
+47,Urban Jungle Co,Nevada,Las Vegas,3.9,Medium,4021467.28
+48,Plant Barn Center,Texas,Houston,9.6,Small,3000040.86
+49,Urban Jungle Center,Arizona,Phoenix,0.8,Medium,5039327.09
+50,Garden World Market,Nevada,Las Vegas,2.8,Small,2452803.88
+51,Nursery Lane Market,Illinois,Naperville,1.9,Medium,5292277.87
+52,Leaf Depot Shop,California,San Jose,0.4,Big Box,4740908.05
+53,Green Spot Center,Colorado,Denver,3.7,Big Box,2632127.04
+54,Green Spot Co,Georgia,Atlanta,3.8,Large,3503771.7
+55,Plant Barn Market,Colorado,Denver,2.4,Large,442785.52
+56,Leaf Depot Shop,California,San Jose,5.1,Small,507414.65
+57,Garden World Shop,Arizona,Phoenix,9.2,Medium,5323039.64
+58,Plant Barn Co,Nevada,Reno,11.6,Large,2184989.48
+59,Leaf Depot Center,Arizona,Phoenix,12.7,Small,1787371.75
+60,Home Garden Shop,Florida,Miami,5.1,Big Box,3004392.6
+61,Plant Barn Co,New York,Albany,8.7,Small,2789230.66
+62,Urban Jungle Shop,Nevada,Reno,4.0,Large,5117303.18
+63,Green Spot Center,Nevada,Reno,7.5,Medium,4889234.33
+64,Nursery Lane Market,New York,Albany,0.2,Small,2690649.58
+65,Leaf Depot Center,Texas,Dallas,6.3,Large,2085662.73
+66,Home Garden Market,New York,New York City,10.4,Large,4398526.39
+67,Green Spot Shop,Illinois,Naperville,11.6,Small,3850637.89
+68,Home Garden Co,Washington,Spokane,12.5,Medium,1985202.87
+69,Urban Jungle Co,Washington,Spokane,9.8,Big Box,1065778.02
+70,Urban Jungle Center,Georgia,Savannah,13.9,Small,4634305.11
+71,Green Spot Co,Illinois,Naperville,3.3,Large,4447560.5
+72,Garden World Shop,Washington,Seattle,12.6,Large,5413998.54
+73,Green Spot Center,Colorado,Denver,3.0,Small,4789116.88
+74,Home Garden Co,Illinois,Naperville,4.2,Small,2859535.78
+75,Urban Jungle Shop,New York,Buffalo,3.4,Large,1168816.92
+76,Leaf Depot Market,Washington,Seattle,13.7,Big Box,2906472.14
+77,Garden World Shop,Georgia,Atlanta,13.9,Large,4321549.35
+78,Leaf Depot Market,Florida,Miami,3.2,Small,2661684.16
+79,Plant Barn Shop,Colorado,Denver,14.0,Small,1999771.21
+80,Green Spot Shop,California,Los Angeles,0.5,Large,3603966.97
+81,Garden World Market,New York,Buffalo,4.4,Large,4307132.26
+82,Garden World Market,Texas,Austin,4.2,Small,5281064.79
+83,Garden World Shop,Colorado,Denver,8.3,Large,993173.35
+84,Garden World Co,Illinois,Chicago,4.8,Large,3088029.79
+85,Plant Barn Center,California,San Diego,13.6,Small,806116.32
+86,Urban Jungle Center,California,Los Angeles,2.8,Big Box,3485655.52
+87,Leaf Depot Market,Illinois,Naperville,10.8,Small,5361829.92
+88,Plant Barn Center,Georgia,Atlanta,1.6,Large,3843509.37
+89,Garden World Market,Georgia,Savannah,2.3,Large,5042523.46
+90,Home Garden Shop,Arizona,Phoenix,11.9,Large,2629736.11
+91,Urban Jungle Co,California,Los Angeles,5.4,Big Box,4690272.88
+92,Green Spot Market,Illinois,Naperville,7.7,Big Box,4542152.68
+93,Green Spot Co,Texas,Austin,11.9,Big Box,2354286.49
+94,Green Spot Market,Arizona,Phoenix,8.3,Big Box,2265036.41
+95,Leaf Depot Center,Washington,Seattle,11.8,Big Box,3227858.77
+96,Garden World Co,Washington,Seattle,11.1,Big Box,850195.02
+97,Nursery Lane Co,Nevada,Reno,12.4,Medium,1867187.55
+98,Green Spot Co,Arizona,Phoenix,10.3,Big Box,1968893.28
+99,Garden World Market,California,Los Angeles,13.3,Small,4224658.02
+100,Green Spot Shop,Florida,Orlando,6.0,Big Box,1277249.76
+101,Green Spot Shop,Washington,Spokane,13.8,Big Box,4018403.92
+102,Green Spot Co,Washington,Seattle,9.3,Big Box,4700092.91
+103,Nursery Lane Co,Illinois,Chicago,0.2,Large,825916.16
+104,Garden World Center,Illinois,Chicago,10.6,Big Box,3532375.09
+105,Urban Jungle Center,Arizona,Tucson,8.3,Medium,2743074.92
+106,Urban Jungle Shop,New York,Albany,12.6,Medium,1764472.08
+107,Plant Barn Co,Florida,Miami,9.8,Medium,4037030.97
+108,Garden World Co,Georgia,Savannah,2.2,Big Box,4765802.0
+109,Green Spot Market,Nevada,Reno,6.9,Big Box,3148262.66
+110,Nursery Lane Market,Georgia,Savannah,2.9,Small,3284177.13
+111,Green Spot Shop,New York,Albany,6.3,Large,425674.85
+112,Urban Jungle Shop,California,San Jose,1.9,Big Box,5299123.19
+113,Home Garden Shop,Texas,Dallas,7.1,Small,2997623.17
+114,Garden World Center,Nevada,Las Vegas,9.5,Small,3841388.6
+115,Green Spot Co,Colorado,Boulder,13.6,Small,2711561.25
+116,Green Spot Shop,Colorado,Boulder,6.4,Large,1768344.33
+117,Home Garden Shop,California,San Jose,11.0,Large,572443.26
+118,Green Spot Co,Georgia,Atlanta,9.9,Large,4496702.84
+119,Nursery Lane Center,Nevada,Las Vegas,1.4,Small,4720087.59
+120,Garden World Shop,Illinois,Naperville,4.3,Large,324565.8
+121,Green Spot Market,Texas,Dallas,10.0,Large,4491163.63
+122,Urban Jungle Market,Illinois,Chicago,12.0,Small,2049951.98
+123,Green Spot Market,Texas,Dallas,12.6,Big Box,4294430.89
+124,Urban Jungle Market,New York,Albany,3.3,Large,535210.38
+125,Plant Barn Market,Illinois,Chicago,7.1,Big Box,1832177.43
+126,Urban Jungle Center,Colorado,Denver,7.2,Medium,3034821.2
+127,Nursery Lane Center,Arizona,Phoenix,5.9,Large,5299254.29
+128,Green Spot Shop,California,Los Angeles,14.4,Big Box,3455049.23
+129,Nursery Lane Shop,Illinois,Naperville,12.1,Large,3685302.23
+130,Leaf Depot Market,Arizona,Tucson,11.1,Medium,2979749.69
+131,Green Spot Co,Florida,Orlando,10.2,Small,312797.41
+132,Home Garden Center,Texas,Houston,5.4,Large,1572454.56
+133,Green Spot Co,California,Los Angeles,1.0,Medium,5240067.04
+134,Plant Barn Market,Texas,Houston,5.8,Medium,4954008.56
+135,Nursery Lane Center,Florida,Orlando,10.0,Small,3603597.67
+136,Home Garden Shop,Illinois,Naperville,4.0,Small,1705759.28
+137,Urban Jungle Shop,California,Sacramento,14.9,Large,5266929.92
+138,Urban Jungle Co,Illinois,Chicago,7.5,Medium,3454084.9
+139,Urban Jungle Co,Florida,Tampa,2.3,Big Box,1396529.12
+140,Home Garden Shop,Texas,San Antonio,1.7,Small,619664.72
+141,Plant Barn Center,Illinois,Naperville,2.4,Small,5147692.05
+142,Garden World Shop,Arizona,Tucson,13.6,Small,2955760.77
+143,Urban Jungle Center,Georgia,Savannah,12.7,Small,3085675.76
+144,Home Garden Center,California,Sacramento,2.0,Large,2000558.49
+145,Plant Barn Co,Illinois,Naperville,5.6,Large,672398.12
+146,Home Garden Market,Georgia,Savannah,2.8,Small,5329443.04
+147,Home Garden Center,New York,Buffalo,13.5,Large,2804143.6
+148,Garden World Co,Georgia,Atlanta,3.1,Medium,2818470.89
+149,Urban Jungle Center,Texas,Austin,14.5,Small,444474.07
+150,Leaf Depot Co,California,San Francisco,6.2,Medium,4487294.46
+151,Home Garden Market,Colorado,Boulder,11.2,Medium,5105283.01
+152,Urban Jungle Co,California,San Diego,7.2,Small,1524083.4
+153,Garden World Co,Florida,Miami,13.6,Small,2644969.11
+154,Plant Barn Co,Florida,Tampa,1.9,Medium,581328.09
+155,Nursery Lane Center,New York,Buffalo,5.0,Medium,1938346.9
+156,Green Spot Market,New York,New York City,5.2,Small,1687940.13
+157,Home Garden Shop,Arizona,Phoenix,8.4,Big Box,1529134.2
+158,Garden World Co,Nevada,Las Vegas,11.9,Big Box,4332723.6
+159,Plant Barn Co,California,Sacramento,0.3,Small,3960391.55
+160,Urban Jungle Center,Nevada,Reno,10.4,Medium,1001211.27
+161,Urban Jungle Market,Illinois,Naperville,14.1,Small,3380427.85
+162,Home Garden Shop,Georgia,Atlanta,5.3,Small,3177979.62
+163,Green Spot Co,New York,New York City,9.4,Medium,2687134.04
+164,Plant Barn Market,New York,Buffalo,1.9,Medium,3847529.71
+165,Garden World Market,Georgia,Savannah,10.1,Small,533644.98
+166,Garden World Center,Washington,Spokane,3.9,Big Box,477416.78
+167,Garden World Market,California,San Jose,11.8,Big Box,2953244.52
+168,Home Garden Center,Texas,Dallas,9.0,Large,2450097.94
+169,Leaf Depot Co,Washington,Seattle,5.0,Small,1494871.4
+170,Urban Jungle Market,Arizona,Phoenix,1.3,Big Box,535281.62

@@ -1,0 +1,384 @@
+EmployeeID,StoreID,FirstName,LastName,Position,HireDate,Salary,PerformanceRating
+1,1,Ronald,Martinez,Store Manager,2019-10-17,64312.61,3.7
+2,1,Steven,King,Garden Advisor,2023-03-20,50897.59,3.9
+3,1,Daniel,Flores,Store Manager,2021-03-13,70685.26,4.7
+4,1,Paul,Allen,Garden Advisor,2024-08-23,46069.95,3.7
+5,1,Mary,White,Visual Merchandiser,2021-11-04,46035.87,4.5
+6,1,Kenneth,Walker,Sales Associate,2020-11-25,38760.53,3.7
+7,1,Edward,Brown,Assistant Manager,2025-08-06,59455.04,2.9
+8,1,Elizabeth,Thomas,Delivery Coordinator,2016-10-23,35777.21,3.7
+9,1,Donald,Lee,Sales Associate,2022-03-14,41165.66,3.6
+10,1,Stephanie,Brown,Visual Merchandiser,2018-09-07,42828.06,3.3
+11,1,Emily,Harris,Visual Merchandiser,2021-03-15,40018.3,4.2
+12,1,Carol,Walker,Inventory Specialist,2019-04-09,43859.73,3.5
+13,1,Karen,Jackson,Assistant Manager,2019-12-23,55669.42,3.2
+14,1,Charles,Davis,Inventory Specialist,2025-11-18,41372.94,3.8
+15,1,Matthew,Martinez,Delivery Coordinator,2020-01-10,46572.37,4.0
+16,1,Stephanie,Walker,Inventory Specialist,2019-04-18,39859.59,3.7
+17,1,William,Miller,Inventory Specialist,2025-12-19,48698.27,3.8
+18,2,Kevin,Anderson,Store Manager,2016-02-14,71445.59,4.0
+19,2,Michael,Rodriguez,Visual Merchandiser,2016-09-06,47146.23,2.7
+20,2,Amanda,Gonzalez,Visual Merchandiser,2020-06-10,43984.21,4.5
+21,2,Amanda,Torres,Cashier,2019-09-24,39286.44,3.6
+22,2,Mark,Lopez,Store Manager,2016-07-16,67920.91,2.5
+23,2,John,Smith,Inventory Specialist,2020-10-20,40046.79,5
+24,2,William,Allen,Visual Merchandiser,2023-05-07,46199.87,4.8
+25,2,David,Robinson,Garden Advisor,2020-12-06,42153.25,4.3
+26,2,Barbara,Flores,Assistant Manager,2022-07-17,51557.74,3.8
+27,2,Brian,Miller,Delivery Coordinator,2018-03-16,37778.01,3.6
+28,2,Donald,Moore,Assistant Manager,2021-05-19,58540.56,4.2
+29,2,Thomas,White,Sales Associate,2019-01-22,36642.3,4.1
+30,2,George,Davis,Inventory Specialist,2020-06-20,39158.64,4.1
+31,2,Steven,Martinez,Store Manager,2023-12-20,85705.27,3.2
+32,2,Ronald,Thomas,Assistant Manager,2025-02-17,53658.5,4.4
+33,3,Robert,Torres,Store Manager,2017-01-18,76497.44,4.1
+34,3,Daniel,King,Store Manager,2023-02-22,68388.23,3.6
+35,3,Jennifer,Allen,Visual Merchandiser,2023-01-15,42869.19,4.2
+36,3,Melissa,Martin,Visual Merchandiser,2016-07-09,46303.76,4.2
+37,3,Michelle,Jones,Assistant Manager,2016-07-12,46825.32,3.6
+38,3,Steven,Williams,Cashier,2020-07-06,37667.87,3.1
+39,3,Lisa,Harris,Delivery Coordinator,2023-07-13,45916.58,5
+40,3,Amanda,Thompson,Store Manager,2017-03-18,72982.08,4.5
+41,3,Edward,Anderson,Store Manager,2016-01-10,73742.65,2.9
+42,3,Joseph,Thomas,Delivery Coordinator,2023-06-05,37975.12,4.0
+43,3,John,Clark,Cashier,2025-01-08,29416.73,3.9
+44,3,Jessica,Williams,Sales Associate,2022-08-08,38286.66,4.0
+45,3,William,Allen,Sales Associate,2020-04-24,41135.87,3.2
+46,3,Jessica,Martin,Garden Advisor,2018-11-17,41071.64,3.5
+47,3,Sarah,Brown,Inventory Specialist,2024-10-24,42035.18,4.5
+48,3,Patricia,Thompson,Visual Merchandiser,2022-09-11,44669.79,3.4
+49,3,Elizabeth,Martin,Delivery Coordinator,2022-03-25,37308.07,3.4
+50,4,Ashley,Brown,Store Manager,2024-07-14,77002.38,3.7
+51,4,Anthony,Thomas,Store Manager,2020-04-11,84097.83,3.0
+52,4,Andrew,Gonzalez,Cashier,2016-05-13,36598.6,2.8
+53,4,Robert,Gonzalez,Sales Associate,2025-12-22,42322.36,3.2
+54,4,Karen,Smith,Garden Advisor,2019-04-24,39555.16,3.6
+55,4,Jessica,Hill,Visual Merchandiser,2019-07-08,40377.0,2.9
+56,4,Karen,Taylor,Garden Advisor,2021-09-16,44652.98,3.5
+57,4,Ronald,Lee,Visual Merchandiser,2019-06-11,38209.33,3.2
+58,4,Mary,Taylor,Store Manager,2024-10-19,80985.89,4.2
+59,4,Elizabeth,Gonzalez,Inventory Specialist,2021-04-13,43755.96,3.4
+60,4,Thomas,Young,Garden Advisor,2023-08-06,48553.13,3.6
+61,4,David,Rodriguez,Garden Advisor,2024-08-06,47223.25,4.4
+62,4,Emily,Williams,Sales Associate,2017-11-02,41035.51,3.5
+63,4,William,Anderson,Delivery Coordinator,2017-12-05,39268.64,4.5
+64,5,Brian,Young,Store Manager,2016-01-18,76864.23,3.8
+65,5,Mary,King,Sales Associate,2020-09-10,39930.16,4.8
+66,5,Michael,Miller,Store Manager,2024-03-08,68058.5,3.9
+67,5,Matthew,Moore,Inventory Specialist,2022-02-12,39470.32,4.4
+68,5,Karen,Garcia,Assistant Manager,2016-02-13,52465.39,3.6
+69,5,Patricia,Smith,Visual Merchandiser,2018-02-16,39705.28,4.2
+70,5,Emily,Williams,Cashier,2019-04-23,38998.36,3.1
+71,5,Sarah,Williams,Visual Merchandiser,2017-11-09,35647.46,4.4
+72,5,Mary,Wilson,Garden Advisor,2025-03-25,49838.5,3.4
+73,5,Robert,Martin,Delivery Coordinator,2018-10-08,43297.48,2.8
+74,5,Anthony,Rodriguez,Garden Advisor,2017-09-24,52084.61,3.4
+75,5,Michael,Ramirez,Sales Associate,2019-02-11,38970.25,3.2
+76,5,Mary,Moore,Garden Advisor,2023-08-08,43041.96,3.3
+77,5,Sandra,Lopez,Delivery Coordinator,2025-11-13,44902.21,4.5
+78,5,Jennifer,Moore,Cashier,2018-07-23,37835.25,4.2
+79,5,Stephanie,Harris,Store Manager,2021-06-04,74247.13,4.9
+80,5,Michael,Rodriguez,Inventory Specialist,2017-03-14,42336.88,4.5
+81,5,Michael,Johnson,Delivery Coordinator,2017-06-18,38621.95,4.4
+82,5,James,Jackson,Delivery Coordinator,2022-07-25,35443.12,4.2
+83,6,Jessica,Torres,Store Manager,2024-03-22,70731.69,3.6
+84,6,Elizabeth,Jones,Visual Merchandiser,2018-07-09,40926.99,4.0
+85,6,Robert,White,Visual Merchandiser,2020-04-24,37859.46,3.3
+86,6,William,Martin,Cashier,2016-07-11,38482.9,3.3
+87,6,Nancy,Lewis,Delivery Coordinator,2021-07-21,38572.02,4.1
+88,6,Steven,Lee,Assistant Manager,2018-07-11,50912.8,3.8
+89,6,Joshua,Thomas,Visual Merchandiser,2021-07-09,36748.87,4.0
+90,6,Michelle,Wright,Assistant Manager,2018-11-25,55485.75,3.3
+91,6,Deborah,Wilson,Visual Merchandiser,2023-05-23,46012.62,4.8
+92,6,William,Martin,Visual Merchandiser,2019-05-22,37296.35,4.2
+93,6,Anthony,Jones,Delivery Coordinator,2023-10-16,46565.55,3.2
+94,6,Andrew,Williams,Delivery Coordinator,2021-12-18,42194.05,3.5
+95,6,Michael,Thomas,Cashier,2021-03-21,36277.25,3.3
+96,6,Ronald,Perez,Delivery Coordinator,2022-02-01,35627.52,3.3
+97,6,Paul,King,Assistant Manager,2024-10-23,52675.25,3.3
+98,6,Matthew,Johnson,Store Manager,2023-02-10,73543.08,3.5
+99,6,Linda,Martinez,Cashier,2021-05-11,34458.43,3.4
+100,6,Michael,Lewis,Visual Merchandiser,2023-06-03,39283.59,3.9
+101,6,Mary,Perez,Cashier,2017-11-06,34829.45,4.6
+102,6,Nancy,Scott,Store Manager,2022-08-08,82889.06,3.4
+103,7,Barbara,Ramirez,Store Manager,2022-01-24,77857.13,3.5
+104,7,James,Wilson,Delivery Coordinator,2019-05-25,43651.85,3.6
+105,7,Joshua,Miller,Cashier,2024-03-12,31983.61,3.5
+106,7,Emily,Lee,Visual Merchandiser,2025-07-20,40538.6,4.3
+107,7,Matthew,Thompson,Cashier,2023-10-06,32377.33,4.1
+108,7,Melissa,Rodriguez,Cashier,2021-02-08,32466.36,3.0
+109,7,Lisa,Martinez,Store Manager,2024-07-14,73715.99,3.2
+110,7,Kevin,Wright,Visual Merchandiser,2018-09-06,41859.13,3.4
+111,7,Barbara,Lee,Store Manager,2023-10-02,75223.23,4.7
+112,7,Anthony,Scott,Assistant Manager,2024-11-16,52993.5,2.8
+113,7,Mark,Lewis,Visual Merchandiser,2023-03-03,38199.2,2.9
+114,7,Sarah,Anderson,Sales Associate,2024-05-06,41236.26,3.4
+115,7,Donna,Allen,Visual Merchandiser,2017-10-04,48676.15,3.7
+116,7,Ronald,Lewis,Sales Associate,2024-04-14,32933.58,4.5
+117,8,Karen,Williams,Store Manager,2023-05-12,84542.31,4.0
+118,8,Rebecca,Thomas,Cashier,2019-12-19,36772.08,3.6
+119,8,David,Flores,Delivery Coordinator,2018-04-07,41378.04,4.0
+120,8,Daniel,Jackson,Store Manager,2020-10-09,86674.69,3.1
+121,8,William,Clark,Cashier,2016-05-21,31841.38,4.6
+122,8,Jessica,Sanchez,Garden Advisor,2023-03-19,47085.72,4.6
+123,8,Anthony,Lewis,Delivery Coordinator,2017-11-25,38009.27,4.4
+124,8,Ashley,Young,Garden Advisor,2021-10-01,50543.43,4.2
+125,8,Edward,Robinson,Cashier,2021-02-18,38294.79,2.6
+126,8,Sarah,Lee,Visual Merchandiser,2020-06-18,43059.9,4.7
+127,8,Nancy,Brown,Visual Merchandiser,2016-02-21,36889.63,3.9
+128,8,Donald,Robinson,Store Manager,2016-07-07,87734.59,3.2
+129,8,Amanda,Martin,Store Manager,2018-05-03,72462.74,3.6
+130,8,Patricia,Sanchez,Store Manager,2020-12-23,81848.08,3.5
+131,8,Amanda,Garcia,Delivery Coordinator,2017-01-07,37319.29,3.5
+132,9,James,Smith,Store Manager,2021-02-14,80349.88,3.8
+133,9,Robert,Anderson,Visual Merchandiser,2022-02-24,40198.84,3.9
+134,9,William,Harris,Inventory Specialist,2018-11-22,38071.37,3.6
+135,9,Carol,Hernandez,Sales Associate,2023-06-24,42939.5,4.0
+136,9,Susan,Garcia,Visual Merchandiser,2017-03-25,36874.94,4.7
+137,9,Matthew,Ramirez,Delivery Coordinator,2021-03-08,41658.04,3.8
+138,9,Rebecca,Johnson,Inventory Specialist,2020-04-17,44540.56,4.0
+139,9,Stephanie,Sanchez,Assistant Manager,2020-11-02,49991.55,4.0
+140,9,Linda,Thomas,Delivery Coordinator,2023-11-20,35261.62,2.8
+141,9,Lisa,Lee,Sales Associate,2018-07-19,33794.71,3.2
+142,9,Rebecca,Jones,Visual Merchandiser,2016-10-03,35387.59,4.1
+143,9,John,Brown,Assistant Manager,2022-09-10,53104.84,3.4
+144,9,Jennifer,Wright,Delivery Coordinator,2024-10-05,37999.22,3.3
+145,9,Jennifer,Allen,Inventory Specialist,2019-03-18,46719.34,3.5
+146,9,Karen,Ramirez,Cashier,2019-01-08,30007.31,4.4
+147,9,Linda,Robinson,Delivery Coordinator,2025-10-02,44141.13,3.5
+148,9,James,Rodriguez,Cashier,2016-03-16,39732.84,4.6
+149,9,David,White,Inventory Specialist,2018-12-25,37725.71,4.4
+150,9,Nancy,Ramirez,Sales Associate,2020-09-03,34898.5,3.2
+151,10,Kimberly,Robinson,Store Manager,2024-06-02,72361.0,3.1
+152,10,Rebecca,Miller,Inventory Specialist,2025-11-24,37687.75,3.8
+153,10,John,Smith,Sales Associate,2019-01-16,33870.48,3.0
+154,10,Donna,Clark,Sales Associate,2019-06-08,36774.98,4.7
+155,10,Sarah,Jones,Garden Advisor,2025-06-04,40462.01,2.6
+156,10,Betty,Jones,Sales Associate,2023-05-25,42020.92,3.8
+157,10,Jennifer,Scott,Garden Advisor,2023-01-12,42283.15,4.0
+158,10,Ashley,White,Assistant Manager,2025-08-25,59477.66,4.5
+159,10,Elizabeth,Smith,Assistant Manager,2022-01-08,58020.39,3.0
+160,10,Nancy,Smith,Sales Associate,2022-12-24,35443.93,3.6
+161,10,Emily,Thomas,Assistant Manager,2022-08-02,50707.31,4.1
+162,10,Joseph,King,Sales Associate,2022-12-12,37291.53,3.7
+163,10,Michelle,Miller,Cashier,2024-03-21,35410.95,3.9
+164,11,Brian,Rodriguez,Store Manager,2019-05-09,84190.37,3.6
+165,11,George,Lee,Delivery Coordinator,2021-08-09,36124.84,3.9
+166,11,Elizabeth,Miller,Cashier,2018-08-15,32563.45,5
+167,11,Andrew,Thompson,Cashier,2019-08-10,30054.52,2.8
+168,11,Deborah,Hill,Inventory Specialist,2016-04-11,38147.63,4.0
+169,11,Matthew,Sanchez,Assistant Manager,2024-01-22,48833.98,3.5
+170,11,Donald,Scott,Delivery Coordinator,2024-04-04,40446.69,4.8
+171,11,Linda,Smith,Store Manager,2016-04-05,80160.26,4.0
+172,11,Michelle,Nguyen,Cashier,2020-02-01,40228.15,4.3
+173,11,Amanda,Lewis,Assistant Manager,2018-02-11,46655.27,4.7
+174,11,Edward,Sanchez,Delivery Coordinator,2023-01-13,43379.4,4.7
+175,11,Matthew,Wilson,Store Manager,2018-05-09,78393.33,3.5
+176,11,Amanda,Jackson,Assistant Manager,2023-07-18,54229.27,3.9
+177,11,Sarah,Harris,Cashier,2018-07-07,31835.44,3.2
+178,11,Anthony,Thompson,Sales Associate,2023-09-16,35890.98,3.0
+179,11,Anthony,Moore,Garden Advisor,2018-01-11,49692.28,3.7
+180,11,Patricia,Walker,Inventory Specialist,2024-06-25,44220.81,3.7
+181,11,David,Miller,Assistant Manager,2019-11-08,61977.15,3.7
+182,12,Ronald,Anderson,Store Manager,2025-07-12,86253.84,4.8
+183,12,Barbara,Thomas,Store Manager,2025-06-24,64050.5,3.4
+184,12,Joshua,Torres,Garden Advisor,2018-10-07,50072.51,2.6
+185,12,Andrew,Martin,Visual Merchandiser,2018-08-02,38175.8,4.1
+186,12,James,Perez,Visual Merchandiser,2025-04-05,39834.32,4.0
+187,12,Daniel,Brown,Store Manager,2016-03-19,66075.34,3.7
+188,12,Robert,White,Garden Advisor,2022-10-04,42760.52,3.5
+189,12,William,Hernandez,Garden Advisor,2022-11-16,52003.02,3.6
+190,12,Joseph,Nguyen,Garden Advisor,2018-07-10,48571.01,3.5
+191,12,William,Lopez,Inventory Specialist,2016-12-19,49534.66,2.4
+192,12,Barbara,Hill,Sales Associate,2021-10-08,39509.28,4.9
+193,12,Kimberly,Martinez,Cashier,2021-12-03,30923.7,3.9
+194,13,Deborah,Perez,Store Manager,2023-01-09,68493.07,5
+195,13,Matthew,Taylor,Cashier,2017-12-01,33748.51,4.4
+196,13,Mark,Young,Store Manager,2022-06-18,72548.51,4.0
+197,13,Joshua,Anderson,Visual Merchandiser,2018-08-03,35473.06,3.8
+198,13,Michael,Jones,Inventory Specialist,2021-03-13,38323.01,3.7
+199,13,Donna,Garcia,Cashier,2021-10-20,33879.45,4.5
+200,13,Kenneth,Ramirez,Store Manager,2018-01-04,71465.2,3.3
+201,13,Mark,Scott,Assistant Manager,2024-05-22,46637.55,3.7
+202,13,Elizabeth,Brown,Visual Merchandiser,2021-01-14,36391.75,4.2
+203,13,Richard,Miller,Visual Merchandiser,2016-04-06,41640.56,2.8
+204,13,Karen,Sanchez,Cashier,2023-08-22,32013.35,2.6
+205,13,Barbara,White,Delivery Coordinator,2022-06-06,40486.67,3.4
+206,13,Sarah,Torres,Assistant Manager,2016-03-25,58073.61,3.9
+207,14,Jennifer,Thompson,Store Manager,2024-07-25,83942.71,3.2
+208,14,Andrew,Walker,Delivery Coordinator,2025-04-16,38282.78,3.4
+209,14,Deborah,Williams,Delivery Coordinator,2024-10-17,42544.82,4.1
+210,14,Ronald,Lewis,Cashier,2018-03-07,38110.93,3.0
+211,14,John,Ramirez,Store Manager,2017-11-14,66980.06,4.1
+212,14,Daniel,Jones,Inventory Specialist,2017-07-18,41619.13,4.8
+213,14,Sarah,King,Garden Advisor,2023-01-23,43974.46,3.3
+214,14,Elizabeth,Martinez,Delivery Coordinator,2025-10-19,44376.08,3.3
+215,14,Michael,Torres,Cashier,2017-05-18,32003.61,4.6
+216,14,Joshua,Hill,Visual Merchandiser,2023-01-06,38945.63,3.0
+217,14,Carol,Hill,Store Manager,2022-01-13,69175.94,4.2
+218,14,Sarah,White,Visual Merchandiser,2016-06-10,39428.91,3.5
+219,14,George,Miller,Visual Merchandiser,2019-03-10,46431.2,4.4
+220,15,Edward,Clark,Store Manager,2025-11-03,67960.67,3.7
+221,15,Mark,Young,Assistant Manager,2024-06-02,51260.66,3.5
+222,15,William,King,Delivery Coordinator,2025-01-06,36876.04,3.8
+223,15,Patricia,Thomas,Assistant Manager,2016-08-02,50603.92,4.5
+224,15,Paul,Sanchez,Visual Merchandiser,2017-11-01,38490.36,3.4
+225,15,Kenneth,Lewis,Visual Merchandiser,2018-08-19,46592.09,3.3
+226,15,Stephanie,Garcia,Inventory Specialist,2020-01-13,36772.14,3.6
+227,15,Joseph,Anderson,Assistant Manager,2019-05-21,59555.77,3.7
+228,15,Steven,Rodriguez,Sales Associate,2018-10-01,34418.95,3.9
+229,15,Deborah,Moore,Inventory Specialist,2022-07-12,40291.9,3.4
+230,15,Michelle,Miller,Delivery Coordinator,2016-09-22,47135.6,3.9
+231,15,Donna,Hill,Garden Advisor,2025-05-10,42756.47,3.5
+232,15,Kevin,Lee,Inventory Specialist,2020-05-21,45992.65,3.2
+233,15,Richard,Martinez,Inventory Specialist,2024-04-02,44444.46,4.1
+234,15,Melissa,Rodriguez,Garden Advisor,2016-11-16,52423.0,2.9
+235,15,Mark,Sanchez,Inventory Specialist,2022-12-02,47455.24,2.3
+236,16,Edward,Anderson,Store Manager,2024-11-16,85551.77,2.9
+237,16,Paul,Martin,Garden Advisor,2018-11-18,39710.54,3.9
+238,16,Edward,Scott,Inventory Specialist,2018-11-11,45202.82,4.0
+239,16,Matthew,Anderson,Assistant Manager,2020-07-11,53959.29,3.3
+240,16,Steven,Brown,Cashier,2025-10-20,29839.04,4.3
+241,16,Paul,Davis,Assistant Manager,2022-09-10,48425.76,2.8
+242,16,Nancy,Clark,Assistant Manager,2025-08-05,51353.66,4.4
+243,16,Rebecca,Garcia,Store Manager,2023-06-21,64780.17,4.3
+244,16,Sarah,Wilson,Visual Merchandiser,2018-10-25,37354.72,3.8
+245,16,William,Flores,Cashier,2022-11-14,33340.81,2.6
+246,16,Andrew,Gonzalez,Sales Associate,2021-01-11,40943.82,4.6
+247,16,Mary,Smith,Assistant Manager,2019-04-23,47575.88,4.1
+248,16,David,Jones,Inventory Specialist,2016-05-10,42435.61,3.5
+249,16,Sandra,Rodriguez,Garden Advisor,2021-08-12,51098.79,3.8
+250,16,Mary,Anderson,Delivery Coordinator,2019-12-05,37120.38,3.5
+251,16,Michelle,Allen,Sales Associate,2018-02-12,36272.36,3.6
+252,16,Rebecca,Wright,Inventory Specialist,2025-01-20,49945.84,2.9
+253,17,Amanda,Johnson,Store Manager,2016-12-04,76757.47,3.3
+254,17,George,Martinez,Visual Merchandiser,2019-12-22,43772.23,4.1
+255,17,Mark,Miller,Inventory Specialist,2024-05-20,47659.3,3.6
+256,17,Paul,Flores,Cashier,2017-05-04,37845.01,3.6
+257,17,Richard,Hill,Visual Merchandiser,2019-05-17,40772.68,4.3
+258,17,John,Scott,Store Manager,2023-04-23,86202.88,3.7
+259,17,Jessica,Smith,Garden Advisor,2016-11-03,47621.1,4.7
+260,17,Jennifer,Allen,Store Manager,2017-12-24,65839.59,3.2
+261,17,Amanda,Anderson,Inventory Specialist,2023-05-09,38515.34,3.6
+262,17,Charles,White,Sales Associate,2021-07-24,33098.63,3.9
+263,17,James,Rodriguez,Sales Associate,2018-06-12,34964.11,4.9
+264,17,Lisa,Perez,Cashier,2018-02-13,33530.81,3.0
+265,17,Sarah,Harris,Visual Merchandiser,2023-07-21,37002.16,4.1
+266,18,David,Miller,Store Manager,2022-10-16,82999.44,3.6
+267,18,Barbara,Flores,Visual Merchandiser,2022-06-20,46604.1,4.6
+268,18,Steven,Young,Store Manager,2017-07-15,64485.4,4.0
+269,18,Amanda,Lee,Inventory Specialist,2016-12-22,46169.4,2.9
+270,18,Brian,Perez,Assistant Manager,2024-09-23,58146.26,3.7
+271,18,Sandra,Thomas,Cashier,2023-06-22,38453.95,3.6
+272,18,James,Hernandez,Sales Associate,2024-08-16,42321.65,3.3
+273,18,Ronald,Young,Cashier,2021-04-11,31538.77,4.0
+274,18,Betty,Thomas,Delivery Coordinator,2017-08-15,44944.72,3.8
+275,18,Jennifer,Young,Visual Merchandiser,2023-06-04,35441.66,4.7
+276,18,Mark,Williams,Delivery Coordinator,2024-09-01,45271.55,3.7
+277,18,Paul,Scott,Inventory Specialist,2019-11-22,47584.84,3.3
+278,19,Ashley,Perez,Store Manager,2024-10-20,74942.31,3.9
+279,19,Deborah,Lewis,Garden Advisor,2017-02-25,43032.13,3.8
+280,19,Donna,King,Inventory Specialist,2021-12-04,36718.15,3.8
+281,19,Kimberly,Rodriguez,Store Manager,2022-02-09,86131.69,3.5
+282,19,Susan,Robinson,Delivery Coordinator,2019-12-11,35748.97,3.6
+283,19,John,Nguyen,Delivery Coordinator,2017-08-15,36105.27,3.1
+284,19,James,King,Visual Merchandiser,2016-09-14,46607.9,2.6
+285,19,Paul,Lopez,Visual Merchandiser,2025-03-24,44142.3,3.9
+286,19,Paul,Harris,Garden Advisor,2022-10-23,48985.92,3.6
+287,19,Betty,Perez,Inventory Specialist,2020-08-05,48436.93,4.3
+288,19,George,Scott,Inventory Specialist,2021-12-24,49121.04,4.4
+289,19,Richard,Wilson,Assistant Manager,2025-12-10,48105.64,3.3
+290,19,Paul,Wright,Store Manager,2021-12-04,81983.77,2.7
+291,19,Michelle,Torres,Visual Merchandiser,2022-11-24,47133.69,4.3
+292,19,James,King,Delivery Coordinator,2017-01-13,36247.03,3.4
+293,20,Richard,Moore,Store Manager,2018-05-22,80265.76,3.8
+294,20,Susan,Wright,Inventory Specialist,2016-06-15,37508.57,4.9
+295,20,Stephanie,Scott,Assistant Manager,2022-04-17,50845.45,4.0
+296,20,Anthony,Harris,Sales Associate,2022-11-11,43501.8,2.8
+297,20,James,Taylor,Sales Associate,2019-10-25,34440.71,4.2
+298,20,Ronald,Nguyen,Garden Advisor,2024-12-20,40712.38,3.3
+299,20,Charles,Lewis,Assistant Manager,2018-11-03,54844.81,3.9
+300,20,John,Ramirez,Delivery Coordinator,2020-09-09,36044.68,4.1
+301,20,James,Perez,Inventory Specialist,2023-12-05,44400.51,5
+302,20,Kimberly,Torres,Inventory Specialist,2024-06-03,47009.4,4.1
+303,20,Emily,Anderson,Garden Advisor,2018-09-03,45779.83,3.9
+304,20,Jennifer,Thompson,Delivery Coordinator,2019-04-22,38720.78,3.5
+305,21,Charles,Wilson,Store Manager,2025-09-16,87378.14,4.8
+306,21,Linda,Thompson,Sales Associate,2023-04-21,39191.7,3.8
+307,21,John,Lee,Assistant Manager,2022-02-13,46196.8,3.8
+308,21,Paul,Allen,Garden Advisor,2023-08-02,42173.86,4.7
+309,21,Daniel,Allen,Assistant Manager,2017-02-06,55187.08,4.7
+310,21,Susan,Wilson,Cashier,2022-02-07,35073.6,3.6
+311,21,Amanda,Jones,Delivery Coordinator,2018-01-15,35291.27,3.8
+312,21,Thomas,Scott,Store Manager,2017-10-08,85660.95,3.7
+313,21,Anthony,Lewis,Delivery Coordinator,2022-07-11,41411.9,4.6
+314,21,Ronald,Nguyen,Cashier,2016-12-03,33053.4,3.9
+315,21,Charles,Martin,Cashier,2025-02-10,33473.17,3.9
+316,21,Steven,Hernandez,Sales Associate,2024-04-05,40820.27,3.2
+317,21,Kevin,Martinez,Inventory Specialist,2020-11-24,36235.43,3.0
+318,21,Linda,Williams,Store Manager,2016-10-20,73007.12,2.7
+319,21,Karen,Wilson,Cashier,2021-04-14,30638.35,4.7
+320,21,Joseph,Flores,Store Manager,2020-04-04,67799.64,3.2
+321,21,Ronald,Scott,Sales Associate,2023-11-18,34748.42,4.5
+322,22,Edward,Nguyen,Store Manager,2023-06-12,66498.71,4.2
+323,22,Michael,Jackson,Assistant Manager,2025-02-07,56656.93,3.6
+324,22,George,Nguyen,Inventory Specialist,2018-10-19,41161.04,4.3
+325,22,Sandra,Hernandez,Garden Advisor,2016-06-08,47209.06,4.0
+326,22,Lisa,Rodriguez,Inventory Specialist,2021-08-15,42288.29,3.0
+327,22,Kimberly,Scott,Inventory Specialist,2017-03-21,48050.47,3.0
+328,22,Andrew,Gonzalez,Store Manager,2020-12-21,65231.8,3.1
+329,22,Mary,Allen,Cashier,2016-10-19,39208.73,3.2
+330,22,Andrew,Wright,Inventory Specialist,2023-11-25,38151.94,4.2
+331,22,Joseph,Nguyen,Delivery Coordinator,2020-03-15,39144.86,3.6
+332,22,Brian,Thomas,Sales Associate,2025-11-06,40948.2,3.8
+333,22,Donald,Hernandez,Store Manager,2018-10-19,81375.32,3.0
+334,22,Matthew,Williams,Visual Merchandiser,2019-08-08,36054.91,2.6
+335,22,Joseph,Williams,Garden Advisor,2019-09-12,50728.29,2.9
+336,22,Amanda,Lee,Sales Associate,2017-12-17,39434.86,4.6
+337,23,Stephanie,Taylor,Store Manager,2025-09-19,72302.47,4.2
+338,23,Emily,Taylor,Cashier,2022-04-17,33593.55,4.5
+339,23,Kimberly,Walker,Garden Advisor,2025-01-17,41202.46,4.2
+340,23,Susan,Martinez,Inventory Specialist,2018-03-12,44472.16,3.4
+341,23,Brian,Anderson,Cashier,2022-06-24,34414.62,4.4
+342,23,Amanda,Clark,Store Manager,2016-04-02,66490.63,4.3
+343,23,William,Allen,Store Manager,2016-10-05,67767.32,4.2
+344,23,Kenneth,Torres,Delivery Coordinator,2016-12-24,43094.74,3.9
+345,23,Jennifer,Wilson,Inventory Specialist,2023-10-16,47655.27,4.0
+346,23,Michelle,Lopez,Store Manager,2025-11-17,69835.47,3.6
+347,23,Ashley,Hill,Garden Advisor,2025-02-08,38082.15,3.6
+348,23,Elizabeth,Hill,Delivery Coordinator,2017-03-16,46275.32,4.0
+349,23,Andrew,Allen,Sales Associate,2017-02-16,38280.86,3.2
+350,23,Rebecca,Ramirez,Sales Associate,2024-07-12,42387.85,2.8
+351,23,Joseph,Walker,Delivery Coordinator,2022-06-19,45421.15,4.2
+352,23,Sandra,Rodriguez,Cashier,2020-08-25,31648.79,2.7
+353,24,Charles,Hill,Store Manager,2024-07-09,82685.06,4.1
+354,24,Emily,Smith,Cashier,2022-11-07,36756.74,4.6
+355,24,Mark,White,Garden Advisor,2017-03-14,50339.76,3.6
+356,24,Joshua,White,Delivery Coordinator,2025-05-22,39590.24,3.5
+357,24,Mark,Scott,Assistant Manager,2024-08-06,50246.79,3.3
+358,24,Joshua,Thompson,Inventory Specialist,2022-12-05,47998.68,4.3
+359,24,Stephanie,Anderson,Cashier,2023-12-06,37859.83,4.3
+360,24,David,Harris,Sales Associate,2016-02-05,37453.22,4.2
+361,24,Jennifer,Jones,Delivery Coordinator,2020-04-12,39416.16,3.9
+362,24,Carol,King,Delivery Coordinator,2020-12-20,35081.96,3.9
+363,24,Kevin,Young,Store Manager,2023-01-07,76044.39,4.6
+364,24,John,Hill,Assistant Manager,2024-09-23,49855.94,2.8
+365,24,Melissa,Williams,Store Manager,2021-04-21,87762.08,4.1
+366,25,Matthew,Sanchez,Store Manager,2022-10-07,76034.34,3.8
+367,25,Jennifer,Scott,Cashier,2020-12-18,39848.09,4.2
+368,25,Joseph,Hill,Inventory Specialist,2019-08-13,44094.2,3.5
+369,25,Barbara,Clark,Inventory Specialist,2024-02-18,49281.4,4.2
+370,25,Andrew,Torres,Inventory Specialist,2020-12-15,49546.81,4.0
+371,25,Rebecca,Thomas,Visual Merchandiser,2021-08-22,35571.97,3.1
+372,25,Thomas,Jones,Cashier,2022-11-08,36634.96,4.0
+373,25,Daniel,Clark,Assistant Manager,2021-09-18,50149.19,4.8
+374,25,Betty,Perez,Cashier,2017-09-06,34386.95,3.9
+375,25,Susan,Torres,Garden Advisor,2020-03-24,45135.37,3.3
+376,25,Jessica,Thomas,Assistant Manager,2020-04-08,49344.91,2.7
+377,25,Carol,Thompson,Assistant Manager,2018-02-04,57489.34,4.5
+378,25,Ronald,Wright,Sales Associate,2016-08-12,39276.97,3.4
+379,25,Joshua,Moore,Visual Merchandiser,2023-03-25,38220.46,4.2
+380,25,Patricia,King,Store Manager,2022-08-18,64157.13,3.6
+381,25,Betty,Lopez,Garden Advisor,2023-02-23,37963.08,3.3
+382,25,Anthony,Nguyen,Assistant Manager,2017-06-12,56593.92,3.7
+383,25,Barbara,Scott,Inventory Specialist,2020-04-09,41180.98,3.1
