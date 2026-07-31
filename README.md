@@ -163,6 +163,5 @@ score = ROUND( (marketSize * 0.60 + whiteSpace * 0.40) * 100 )
 
 ## Author
 
-**Your Name** — [LinkedIn](https://linkedin.com/in/your-handle) · [Portfolio](https://your-site.com)
+**Eman Fatima** 
 
-> If you found this useful, consider giving the repo a ⭐.
